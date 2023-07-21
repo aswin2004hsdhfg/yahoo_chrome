@@ -1,0 +1,262 @@
+@import url('https://fonts.googleapis.com/css2?family=Amiko&family=Cormorant+Garamond:wght@300&family=Montserrat:wght@100;200;300&family=Nunito+Sans:ital,wght@0,200;1,200&family=Quicksand:wght@300&family=Snippet&display=swap');
+#border1{
+
+    height: 9px;
+    width: 0px;
+    background-color: rgb(255, 105, 105);
+    position: relative;
+    left: 100px;
+    bottom: 320px;
+}
+#borderi{
+
+  height: 0px;
+  width: 0px;
+  background-color: rgb(255, 255, 255);
+  position: absolute;
+  left: 360px;
+  top: 310px;
+  
+}
+.borderx{
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  position: relative;
+  left: 950px;
+ bottom: 40px;
+  height: 60px;
+  width:200px;
+}
+#welmsg{
+    font-size: 20px;
+   font-family: Montserrat,sans-serif;
+   color: rgb(58, 58, 58);
+  
+  position: relative;
+  left: 550px;
+  top: 130px;
+   
+}
+#date{
+    font-size: 10px;
+   font-family: Montserrat,sans-serif;
+   color: rgb(31, 31, 31);
+  
+  position: relative;
+  left: 620px;
+  top: 110px;
+   
+}
+
+
+#border2{
+  margin-top: 200px;
+    border: 1px solid;
+    height: 60px;
+    width: 500px;
+    color: rgb(58, 58, 58);
+background-color: rgb(241, 253, 249);
+    position: relative;
+    left: 450px;
+   top: 100px;
+   padding: 10px;
+   color: rgb(218, 217, 217);
+   
+}
+h2{
+    font-size: 11px;
+    font-family:Montserrat,sans-serif;;
+    color: black;
+}
+#border3{
+    border: px solid;
+    height: 160px;
+    width: 450px;
+    color: rgb(0, 0, 0);
+    background-color: rgb(255, 255, 255);
+    position: relative;
+    left: 480px;
+   top: 120px;
+   padding-left: 40px;
+   border-radius: 3px;
+   box-shadow: 0px 0px 3px rgb(160, 160, 160);
+ 
+   list-style: decimal;
+}
+h4{
+    font-size: 19px;
+    font-family:Montserrat,sans-serif;;
+    color: black;
+    position: relative;
+    top: 0px;
+   
+}
+h6{
+  font-size: 13px;
+  font-family:Montserrat,sans-serif;;
+  color: black;
+  position: relative;
+  padding: 1px;
+ 
+}
+.ses{
+  margin-top: -230px;
+  border: 0px solid;
+  height: 45px;
+  width: 650px;
+  position: relative;
+  border-radius: 30px;
+  box-shadow: 1px 0px 10px rgb(189, 189, 189);
+}
+.s1{
+  position: relative;
+left: 9px;
+top: 4px;
+  border: 0px solid;
+  height: 35px;
+  width: 30px;
+  
+  
+}
+.s2{
+  position: relative;
+top: 3px;
+ border: 0px solid;
+  height: 20px;
+  width: 400px;
+  background-color: rgb(255, 255, 255);
+  font-size: 20px;
+  display: flex;
+  align-items: flex-start;
+  
+}
+.s2>input{
+  flex: 1px;
+  height: 30px;
+  border: none;
+  outline: none;
+  font-size: 20px;
+}
+.s3{
+position: relative;
+left: 150px;
+bottom: 10px;
+top: 6px ;
+  height: 35px;
+  width: 30px;
+ 
+}
+.ses{
+  display: flex;
+  gap: 1em;
+  align-content: center;
+  flex-wrap: wrap;
+  position: relative;
+ left: 370px;
+ bottom: 100px;
+ border-radius: 35px;
+  
+}
+.ses2{
+ margin-top: -70px;
+  height: 1px;
+  width: 650px;
+  position: relative;
+  border-radius: 0px;
+  font-size: 13px;
+  font-family:Montserrat,sans-serif;;
+
+ 
+}
+.s4{
+  display: flex;
+  height: 40px;
+  width: 120px;
+  background-color: rgb(255, 255, 255);
+  border-radius: 20px;
+  align-items: center;
+  padding-left: 20px;
+  box-shadow: 1px 0px 10px rgb(189, 189, 189);
+  
+}
+.s5{
+  display: flex;
+  height: 40px;
+  width: 70px;
+  background-color: rgb(255, 255, 255);
+  border-radius: 20px;
+   align-items: center;
+   padding-left: 20px;
+   box-shadow: 1px 0px 10px rgb(189, 189, 189);
+}
+.s6{
+  display: flex;
+  height: 40px;
+  width: 60px;
+  background-color: rgb(255, 255, 255);
+  border-radius: 20px;
+  align-items: center;
+  padding-left: 20px;
+  box-shadow: 1px 0px 10px rgb(189, 189, 189);
+}
+
+.s7{
+  display: flex;
+  height: 40px;
+  width: 70px;
+  background-color: rgb(255, 255, 255);
+  border-radius: 20px;
+  align-items: center;
+  padding-left: 20px;
+  box-shadow: 1px 0px 10px rgb(189, 189, 189);
+}
+   
+ 
+.ses2{
+  display: flex;
+  gap: 2em;
+  align-content: center;
+  flex-wrap: wrap;
+  position: relative;
+ left: 50px;
+ bottom: 350px;
+ border-radius: 35px;
+top: 12px;
+ left: 460px;
+ 
+  
+}
+.xyy {
+ position: relative;
+ left: 0px;
+ 
+ height: 100px;
+ width: 210px;
+ gap: 1em;
+}
+.sub{
+  position: relative;
+ left: 214px;
+bottom:102px ;
+
+ height: 10px;
+ width: 210px;
+
+}
+.xyy a{
+  text-decoration: none;
+}
+a:hover{
+  text-decoration: underline;
+}
+.sub a{
+  text-decoration: none;
+}
+a:hover{
+  text-decoration: underline;
+}
+#er:hover{
+  background-color: rgb(217, 255, 242);
+  color: blue;
+}
